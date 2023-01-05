@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/piyush/Desktop/dsml_Portfolio/visa/notebooks/mlruns/0/275c0c4f944b4d269c59ef7acad53a05/artifacts
+end_time: 1672752286230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 275c0c4f944b4d269c59ef7acad53a05
+run_name: abundant-loon-773
+run_uuid: 275c0c4f944b4d269c59ef7acad53a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672752280818
+status: 4
+tags: []
+user_id: piyush

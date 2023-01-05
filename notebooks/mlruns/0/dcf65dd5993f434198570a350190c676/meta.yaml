@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/piyush/Desktop/dsml_Portfolio/visa/notebooks/mlruns/0/dcf65dd5993f434198570a350190c676/artifacts
+end_time: 1672752593204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcf65dd5993f434198570a350190c676
+run_name: sassy-shark-711
+run_uuid: dcf65dd5993f434198570a350190c676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672752584790
+status: 3
+tags: []
+user_id: piyush
